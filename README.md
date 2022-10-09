@@ -11,3 +11,13 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
+
+# Example
+```
+https://github.com/amanusk/hardhat-template
+```
+
+# Link
+```
+https://bscscan.com/apis
+```
